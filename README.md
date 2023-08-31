@@ -1,4 +1,4 @@
-# Classificação de Pacientes com Problemas Cardíacos usando Redes MLP, KNN e Naive Bayes**
+# Classificação de Pacientes com Problemas Cardíacos usando Redes MLP, KNN e Naive Bayes
 
 **Introdução:**
 A aplicação da Inteligência Artificial (IA) na área da saúde tem conquistado grande destaque devido à sua capacidade de auxiliar médicos e profissionais da área a tomarem decisões mais precisas e eficientes. Neste trabalho, exploramos a aplicação de três algoritmos de aprendizado de máquina - Redes MLP, KNN e Naive Bayes - para classificar pacientes com relação à presença de problemas cardíacos. O objetivo é comparar o desempenho desses algoritmos na tarefa de diagnóstico médico.
